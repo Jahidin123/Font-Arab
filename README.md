@@ -44,11 +44,10 @@ Repository ini berisi berbagai font Arab seperti Uthmani, Naskh, Lateef, dan lai
 
 🌐 Akses Publik
 
-Contoh link download:
+link download:
 
-https://raw.githubusercontent.com/jahidin123/font-arab/main/Lateef.zip
+https://github.com/Jahidin123/Font-Arab.git
 
-Silakan ganti nama file sesuai kebutuhan.
 
 ---
 
