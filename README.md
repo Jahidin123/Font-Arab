@@ -44,11 +44,11 @@ Repository ini berisi berbagai font Arab seperti Uthmani, Naskh, Lateef, dan lai
 
 🌐 Akses Publik
 
-link download:
+## 📥 Download Font Arab (Full)
 
-https://github.com/Jahidin123/Font-Arab/archive/refs/heads/main.zip
+Klik di bawah untuk mendownload full:
 
-[![Download](https://img.shields.io/badge/Download-Font%20Arab-blue?style=for-the-badge)](https://github.com/Jahidin123/Font-Arab/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/⬇️%20Download%20Full-Font%20Arab-blue?style=for-the-badge)](https://github.com/Jahidin123/Font-Arab/archive/refs/heads/main.zip)
 
 ---
 
