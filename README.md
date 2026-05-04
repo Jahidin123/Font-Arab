@@ -60,10 +60,15 @@ Klik di bawah untuk mendownload full:
 
 ---
 
-👤 Author
+## 👤 Author
 
-Jahidin123
+<p align="center">
+  <img src="https://img.shields.io/badge/👤%20Author-JAHIDIN%20SHOLEH-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
+<p align="center">
+  <i>✨ Crafted with passion</i>
+</p>
 ---
 
 ⭐ Dukungan
