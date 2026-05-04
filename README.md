@@ -48,6 +48,8 @@ link download:
 
 https://github.com/Jahidin123/Font-Arab/archive/refs/heads/main.zip
 
+[![Download](https://img.shields.io/badge/Download-Font%20Arab-blue?style=for-the-badge)](https://github.com/Jahidin123/Font-Arab/archive/refs/heads/main.zip)
+
 ---
 
 ⚠️ Catatan
